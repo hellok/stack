@@ -1,3 +1,5 @@
+
+
 See INSTALL for build instructions.  Make sure STACK binaries are
 in the PATH.
 
@@ -50,8 +52,8 @@ This means the null pointer check at line 4 ("stack:") may be simplified
 into true ("model:") due to the pointer dereference at line 3 ("core:").
 
 
-Contact
--------
 
-If you find any bugs in STACK, feel free to contact us: you can send
-us email at int@pdos.csail.mit.edu.
+
+
+
+
